@@ -10,7 +10,8 @@ My first skill stack was Python + JavaScript/React (fullstack) but in 2022 I swi
 
 <p>
 My interests are: <br>
-Back-end, micro-services and distributed systems, cloud computing and cloud native software. <br>
+Back-end, micro-services and distributed systems, cloud computing and cloud native software. 
+<br> <br>
 I'm open to collaborating on various projects not just web-dev but game development and AI/ML also.
 </p>
 <p align="center">
