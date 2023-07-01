@@ -12,7 +12,7 @@ My first skill stack was Python + JavaScript/React (fullstack) but in 2022 I swi
 My interests are: <br>
 Back-end, micro-services and distributed systems, cloud computing and cloud native software. 
 <br> <br>
-I'm open to collaborating on various projects not just web-dev but game development and AI/ML.
+I'm open to collaborating on various projects not just web-dev but game development, AI/ML, hackathons, bootcamps...
 </p>
 <p align="center">
 	<a href="https://www.linkedin.com/in/diogo-a-939354221">
