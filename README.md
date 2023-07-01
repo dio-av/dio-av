@@ -1,16 +1,33 @@
-### Hi there 👋
+###  Hi there 👋
 
-<!--
-**dio-av/dio-av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Welcome! My name is Diogo.</p>
+<p> 
+I'm a self taught and self motivated software developer that began developing software in 2016 for fun and professionally in 2019.
+</p>
+<p>
+My first skill stack was Python + JavaScript/React (fullstack) but in 2022 I switched to Golang and I'm now a excited gopher delivering back end solution entirely in Go. Also I keep and eye in functional languages like APL/BQN and Erlang/Elixir.
+</p>
 
-Here are some ideas to get you started:
+<p>
+My interests are: <br>
+Back-end, micro-services and distributed systems, cloud computing and cloud native software. <br>
+I'm open to collaborating on various projects not just web-dev but game development and AI/ML also.
+</p>
+<p align="center">
+	<a href="https://www.linkedin.com/in/diogo-a-939354221">
+	        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+	</a>
+	<a href="https://exercism.org/profiles/UserAtUser">
+	        <img src="https://img.shields.io/badge/exercism-blue?style=flat-square&logo=exercism&logoColor=white" alt="exercism">
+	</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Technologies
+![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
+![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PostegreSQL](https://img.shields.io/badge/postegresql-black?style=for-the-badge&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+
