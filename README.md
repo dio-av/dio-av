@@ -5,7 +5,7 @@
 I'm a self taught and self motivated software developer that began developing software in 2017 for fun and professionally in 2020.
 </p>
 <p>
-My first skill stack was Python + JavaScript/React (fullstack) but in 2022 I switched to Golang and I'm now a excited gopher delivering back end solution entirely in Go. Also I keep and eye in functional languages like APL/BQN and Erlang/Elixir.
+My first skill stack was Python + JavaScript/React (fullstack) but in 2022 I switched to Golang and I'm now a excited gopher delivering back end solution entirely in Go. Also I keep an eye in functional languages like APL/BQN and Erlang/Elixir.
 </p>
 
 <p>
@@ -25,6 +25,8 @@ I'm open to collaborating on various projects not just web-dev but game developm
 
 ### Languages and Technologies
 ![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PostegreSQL](https://img.shields.io/badge/postegresql-black?style=for-the-badge&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
