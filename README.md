@@ -5,7 +5,7 @@
 I'm a self taught and self motivated software developer that began developing software in 2017 for fun and professionally in 2020.
 </p>
 <p>
-My first skill stack was Python + JavaScript/React (fullstack) but in 2022 I switched to Golang and I'm now a excited gopher delivering back end solution entirely in Go. Also I keep an eye in functional languages like APL/BQN and Erlang/Elixir.
+My first skill stack was Python + JavaScript/React (fullstack) but in 2022 I switched to Golang and I'm now a excited gopher delivering back end solutions entirely in Go. Also I keep an eye in functional languages like APL/BQN and Erlang/Elixir.
 </p>
 
 <p>
