@@ -1,13 +1,10 @@
-###  Hi there <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
+###  Hi there,
 
 <h2> Welcome! My name is Diogo.</h2>
 <p> 
 	I'm a self taught and self motivated software developer that began developing software in 2017 for fun and professionally in 2020.
+	I'm a excited gopher delivering back end solutions entirely in Go that also keep an eye in functional languages like APL/BQN and Erlang/Elixir.
 </p>
-<p>
-	I'm a excited gopher delivering back end solutions entirely in Go. Also I keep an eye in functional languages like APL/BQN and Erlang/Elixir.
-</p>
-
 <p>
 	My interests are: <br>
 	Back-end, micro-services, distributed systems, high availability, cloud computing and cloud native software. 
