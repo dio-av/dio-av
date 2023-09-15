@@ -26,6 +26,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PostegreSQL](https://img.shields.io/badge/postegresql-black?style=for-the-badge&logo=PostgreSQL)
