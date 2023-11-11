@@ -1,9 +1,9 @@
-###  Hi there,
+##  Hi there,
 
-<h2> Welcome to my portifolio!</h2>
+### Welcome to my portifolio!
 <p> 
-	I'm a self taught and self motivated software developer.
-	I'm a excited gopher delivering back end solutions entirely in Go that also keep an eye in functional languages like APL/BQN and Erlang/Elixir.
+	I'm a self taught and self motivated software developer. 
+	gopher delivering back end solutions entirely in Go that also keep an eye in functional languages like APL/BQN and Erlang/Elixir.
 </p>
 <p>
 	My interests are: <br>
@@ -29,7 +29,10 @@
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PostegreSQL](https://img.shields.io/badge/postegresql-black?style=for-the-badge&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 ![MongoBD](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
-
+![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
