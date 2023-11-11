@@ -1,8 +1,8 @@
 ###  Hi there,
 
-<h2> Welcome! My name is Diogo.</h2>
+<h2> Welcome to my portifolio!</h2>
 <p> 
-	I'm a self taught and self motivated software developer that began developing software in 2017 for fun and professionally in 2020.
+	I'm a self taught and self motivated software developer.
 	I'm a excited gopher delivering back end solutions entirely in Go that also keep an eye in functional languages like APL/BQN and Erlang/Elixir.
 </p>
 <p>
