@@ -2,8 +2,9 @@
 
 ### Welcome to my portifolio!
 <p> 
-	I'm a self taught and self motivated software developer. 
-	gopher delivering back end solutions entirely in Go that also keep an eye in functional languages like APL/BQN and Erlang/Elixir.
+	I'm a self taught, self motivated software developer also a hardcore gopher delivering back end solutions entirely in Go.
+	<br>
+	I keep an eye in functional languages like APL/BQN and Erlang/Elixir.
 </p>
 <p>
 	My interests are: <br>
@@ -12,9 +13,9 @@
 	I'm open to collaborating on various projects not just web-dev but game development, AI/ML, hackathons, bootcamps...
 	</p>
 <p align="center">
-	<a href="https://www.linkedin.com/in/diogo-a-939354221">
-	        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-	</a>
+	<a href="https://www.linkedin.com/in/diogo-av">
+	        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn" alt="LinkedIn">
+	</a> <br>
 	<a href="https://exercism.org/profiles/UserAtUser">
 	        <img src="https://img.shields.io/badge/exercism-blue?style=flat-square&logo=exercism&logoColor=white" alt="exercism">
 	</a>
