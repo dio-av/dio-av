@@ -1,6 +1,6 @@
 ##  Hi there,
 
-### Welcome to my portifolio!
+### Welcome to my github repo!
 <p> 
 	I'm a self taught, self motivated software developer also a hardcore gopher delivering back end solutions entirely in Go.
 	<br>
