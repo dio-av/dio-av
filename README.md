@@ -1,17 +1,14 @@
 ##  Hi there,
 
-### Welcome to my github repo!
-<p> 
-	I'm a self taught, self motivated software developer also a hardcore gopher delivering back end solutions entirely in Go.
-	<br>
-	I keep an eye in functional languages like APL/BQN and Erlang/Elixir.
-</p>
-<p>
-	My interests are: <br>
-	Back-end, micro-services, distributed systems, high availability, cloud computing and cloud native software. 
-	<br> <br>
-	I'm open to collaborating on various projects not just web-dev but game development, AI/ML, hackathons, bootcamps...
-	</p>
+### Welcome to my github repo
+I'm a self taught, self motivated software developer also a hardcore gopher delivering back end solutions entirely in Go.
+I keep an eye in functional languages like APL/BQN and Erlang/Elixir.	
+I´m the actual maintainer of the Open-Meteo API Go Client  [omgo](https://github.com/dio-av/omgo).
+ 
+### My interests are:
+Back-end, micro-services, distributed systems, high availability, cloud computing and cloud native software. 
+
+I'm open to collaborating on various projects not just web-dev but game development, AI/ML, hackathons, bootcamps...
 <p align="center">
 	<a href="https://www.linkedin.com/in/diogo-av">
 	        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn" alt="LinkedIn">
