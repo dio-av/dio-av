@@ -8,7 +8,7 @@ I´m the actual maintainer of the Open-Meteo API Go Client  [omgo](https://githu
 ### My interests are:
 Back-end, micro-services, distributed systems, high availability, cloud computing and cloud native software. 
 
-I'm open to collaborating on various projects not just web-dev but game development, AI/ML, hackathons, bootcamps...
+I'm open to collaborating on various projects not just web-dev but game development, AI/ML, Web2/Web3, hackathons, bootcamps...
 <p align="center">
 	<a href="https://www.linkedin.com/in/diogo-av">
 	        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn" alt="LinkedIn">
