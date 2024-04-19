@@ -1,8 +1,8 @@
 ##  Hi there,
 
 ### Welcome to my github repo
-I'm a self taught, self motivated software developer also a hardcore gopher delivering back end solutions entirely in Go.
-I keep an eye in functional languages like APL/BQN and Erlang/Elixir.	
+I'm a self taught, self motivated software developer also a hardcore gopher delivering back end solutions entirely in Go. \
+I also keep an eye in pure functional languages like APL/BQN and Erlang/Elixir. \
 I´m the actual maintainer of the Open-Meteo API Go Client  [omgo](https://github.com/dio-av/omgo).
  
 ### My interests are:
