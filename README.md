@@ -9,14 +9,6 @@ I´m the actual maintainer of the Open-Meteo API Go Client  [omgo](https://githu
 Back-end, microservices, distributed systems, high availability, cloud computing and cloud native software. 
 
 I'm open to collaborating on various projects not just web-dev but game development, AI/ML, Web2/Web3, hackathons, bootcamps...
-<p align="center">
-	<a href="https://www.linkedin.com/in/diogo-av">
-	        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn" alt="LinkedIn">
-	</a> <br>
-	<a href="https://exercism.org/profiles/UserAtUser">
-	        <img src="https://img.shields.io/badge/exercism-blue?style=flat-square&logo=exercism&logoColor=white" alt="exercism">
-	</a>
-</p>
 
 ### Languages and Technologies
 ![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
