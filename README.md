@@ -23,7 +23,5 @@ I'm open to collaborating on various projects not just web-dev but game developm
 ![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
 ![MongoBD](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
-![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
-![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
