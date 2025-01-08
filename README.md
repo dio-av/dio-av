@@ -1,10 +1,12 @@
 ##  Hi there,
 
 ### Welcome to my github repo
-I'm a software engineer and a hardcore gopher delivering software solutions entirely in Go. \
+I'm a software engineer and a hardcore gopher delivering software solutions entirely in Go and the actual maintainer of the Open-Meteo API Go Client  [omgo](https://github.com/dio-av/omgo).
+
 I also keep an eye in pure functional languages like Erlang/Elixir.
 <br> <br>
-I´m the actual maintainer of the Open-Meteo API Go Client  [omgo](https://github.com/dio-av/omgo).
+
+I´m open for hire as a software engineer/backend developer.
  
 ### My interests are:
 Back-end, microservices, distributed systems, high availability, cloud computing and cloud native software. 
