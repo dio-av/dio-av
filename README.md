@@ -5,9 +5,9 @@ I'm a software engineer and a hardcore gopher delivering software solutions enti
 
 I also keep an eye in pure functional languages like Erlang/Elixir.
 <br> <br>
-
 I´m open for hire as a software engineer/backend developer.
- 
+<br>
+
 ### My interests are:
 Back-end, microservices, distributed systems, high availability, cloud computing and cloud native software. 
 
